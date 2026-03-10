@@ -1,0 +1,7 @@
+# Configuration definition for thorn UtilForge
+
+REQUIRES Loop
+
+PROVIDES UtilForge
+{
+}

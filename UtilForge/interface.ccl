@@ -1,0 +1,7 @@
+# Interface definition for thorn UtilForge
+
+IMPLEMENTS: UtilForge
+
+USES INCLUDE HEADER: loop_device.hxx
+
+INCLUDES HEADER: util_powerinline.hxx IN util_powerinline.hxx
